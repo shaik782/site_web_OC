@@ -15,9 +15,6 @@ Ce dépôt contient les fichiers source pour un site web que j'ai créé à des 
 
 - HTML5
 - CSS3 (avec Sass/SCSS pour la gestion des styles)
-- JavaScript (pour les fonctionnalités interactives)
-- Frameworks/Librairies (optionnel) : Bootstrap, jQuery, etc.
-- Outils de Build (optionnel) : Gulp, Webpack, etc.
 
 ## Structure du Projet
 
@@ -26,9 +23,7 @@ Ce dépôt contient les fichiers source pour un site web que j'ai créé à des 
 - **portfolio.html** : Page de Portfolio.
 - **contact.html** : Page de Contact.
 - **css/** : Répertoire contenant les fichiers CSS.
-- **js/** : Répertoire contenant les fichiers JavaScript.
 - **img/** : Répertoire contenant les images utilisées sur le site.
-- **fonts/** : Répertoire contenant les polices de caractères.
 
 ## Installation
 
